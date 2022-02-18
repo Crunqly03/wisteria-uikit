@@ -111,6 +111,6 @@
     "test": "jest"
   },
   "types": "dist/index.d.ts",
-  "version": "0.10.2",
+  "version": "0.10.3",
   "author": "crunqly"
 }
