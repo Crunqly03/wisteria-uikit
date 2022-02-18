@@ -90,7 +90,7 @@
   "license": "UNLICENSED",
   "main": "dist/index.cjs.js",
   "module": "dist/index.esm.js",
-  "name": "crunqly-wst-uikit",
+  "name": "crunqly-wisteria-uikit",
   "peerDependencies": {
     "react": "^17.0.1",
     "react-dom": "^16.14.0",
@@ -111,6 +111,6 @@
     "test": "jest"
   },
   "types": "dist/index.d.ts",
-  "version": "0.10.2",
+  "version": "0.10.3",
   "author": "crunqly"
 }
